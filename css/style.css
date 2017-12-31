@@ -1,0 +1,239 @@
+html {
+
+    font-family: 'Raleway', sans-serif;
+}
+/* Global CSS */
+.container-fluid {
+    width: 100%;
+    height: auto;
+}
+.container {
+    margin: 0 auto;
+    width: 100%;
+}
+.fix {
+    overflow: hidden;
+}
+.float_left {
+    float: left;
+}
+.float_right {
+    float: right;
+}
+
+/* banner css */
+
+.wedding_site_wrapper > .wedding_site{
+
+}
+.wedding_site_wrapper > .wedding_site > .top_bar{
+
+
+}
+.wedding_site_wrapper > .wedding_site > .top_bar > img{
+
+    width: 100%;
+    height: 565px;
+    padding-top: 104px;
+}
+
+/* navigation start */
+
+.wedding_site_wrapper > .wedding_site > .menu{
+
+    padding-top: 15px;
+    padding-bottom: 0px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: white;
+    padding-right: 50px;
+    padding-left: 27px;
+
+}
+.wedding_site_wrapper > .wedding_site > .menu > .title{
+
+}
+.wedding_site_wrapper > .wedding_site > .menu > .title > a > img{
+
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.wedding_site_wrapper > .wedding_site > .menu > .navigation_bar{
+
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.wedding_site_wrapper > .wedding_site > .menu > .navigation_bar > ul{
+
+    list-style: none;
+}
+.wedding_site_wrapper > .wedding_site > .menu > .navigation_bar > ul > li{
+
+    display: inline-block;
+
+}
+.wedding_site_wrapper > .wedding_site > .menu > .navigation_bar > ul > li > a{
+
+    text-decoration: none;
+    color: #727272;
+    padding-right: 36px;
+
+
+}
+.wedding_site_wrapper > .wedding_site > .menu > .navigation_bar > ul > li > a:hover{
+
+    color: crimson;
+}
+
+/* core_services start */
+.wedding_site_wrapper > .wedding_site > .core_services{
+
+    padding-top: 80px;
+    margin-bottom: 380px;
+}
+.wedding_site_wrapper > .wedding_site > .core_services > h1{
+
+    text-align: center;
+    color: #161616;
+    font-weight: 300;
+    font-size: 45px;
+
+}
+.wedding_site_wrapper > .wedding_site > .core_services > .border > img{
+
+    padding-left: 388px;
+    margin-top: -60px;
+
+}
+
+.wedding_site_wrapper > .wedding_site > .core_services > .service{
+
+    width: 25%;
+    /* height: 300px; */
+    float: left;
+    border: 2px solid rgba(0,0,0,.1);
+    padding-left: 38px;
+    height: 288px;
+    padding-right: 20px;
+    margin-left: 38px;
+    background: #fafafa;
+}
+
+
+.wedding_site_wrapper > .wedding_site > .core_services > .service > img{
+
+    padding: 8px 132px;
+
+}
+.wedding_site_wrapper > .wedding_site > .core_services > .service >  h4{
+
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+
+
+}
+.wedding_site_wrapper > .wedding_site > .core_services > .service > p{
+
+    text-align: center;
+}
+
+/* approach css */
+
+.wedding_site_wrapper > .wedding_site > .approach{
+
+    background: #fafafa;
+    padding-bottom: 40px
+}
+.wedding_site_wrapper > .wedding_site > .approach > h1{
+
+    text-align: center;
+    color: #161616;
+    font-weight: 300;
+    font-size: 45px;
+
+}
+.wedding_site_wrapper > .wedding_site > .approach > img{
+
+    padding-left: 400px;
+    margin-top: -52px;
+
+}
+.wedding_site_wrapper > .wedding_site > .approach > p{
+
+
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 0px 182px;
+}
+
+/* banner css */
+
+.wedding_site_wrapper > .wedding_site > .banner > img{
+
+    width: 100%;
+}
+
+/* Brand Ambassador css */
+
+.wedding_site_wrapper > .wedding_site > .brand_ambassador{
+
+    padding-left: 111px;
+    padding-top: 40px;
+
+
+}
+.wedding_site_wrapper > .wedding_site > .brand_ambassador > .content{
+
+    width: 30%;
+    float: left;
+    /* padding-left: 182px; */
+    padding-left: 140px;
+}
+.wedding_site_wrapper > .wedding_site > .brand_ambassador > .content > h1{
+
+    color: #161616;
+    font-weight: 300;
+    font-size: 35px;
+}
+.wedding_site_wrapper > .wedding_site > .brand_ambassador > .content > img{
+
+}
+.wedding_site_wrapper > .wedding_site > .brand_ambassador > .content > h4{
+
+    color: #727272;
+    font-size: 22px;
+    font-weight: 500;
+}
+.wedding_site_wrapper > .wedding_site > .brand_ambassador > .content > p{
+
+}
+
+
+
+/* footer start */
+
+.wedding_site_wrapper > .wedding_site > .footer{
+
+    background: #666;
+    height: 28px;
+    /* padding-top: 91px; */
+    position: relative;
+    top: 400px;
+    padding-bottom: 27px;
+    margin-bottom: 400px;
+}
+.wedding_site_wrapper > .wedding_site > .footer > .left_part > p{
+
+    position: absolute;
+    left: 60px;
+    padding-top: 6px;
+}
+.wedding_site_wrapper > .wedding_site > .footer > .right_part > p{
+
+    position: absolute;
+    right: 60px;
+    padding-top: 6px;
+}
